@@ -1,8 +1,7 @@
 # laravel_oauth
 
-Simple SPA project with backend by Laravel and use vue.js as frontend.  
-Also has Oauth login sysytem.
-By the way, the project has task curd functions which I referenced laravel intermidiate tutorial.
+This is the simple Vue.js & Laravel CRUD.
+It also Passport installed.
 
 
 Reference for to install Homestead.
